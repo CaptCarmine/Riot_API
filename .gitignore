@@ -1,3 +1,8 @@
+# custom ignores
+
+## APi keys
+api.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
