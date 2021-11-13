@@ -1,0 +1,17 @@
+
+<div class="master-card-container">
+    <mat-card *ngFor="let character of characters">
+        <mat-card-title>
+            {{ character.championId }}
+        </mat-card-title>
+    
+        <p>
+            Level: {{ character.championLevel }}
+        </p>
+    
+        <p>
+            Points: {{ character.championPoints }}
+        </p>
+    
+    </mat-card>
+</div>
