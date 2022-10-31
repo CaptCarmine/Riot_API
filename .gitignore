@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #config files
+=======
+# custom ignores
+
+## APi keys
+>>>>>>> ae22e73f53fe7bf95cef2a8784bc13674b2379a1
 api.py
 
 # Byte-compiled / optimized / DLL files

@@ -1,3 +1,3 @@
 # Riot_API
 
-## Testing
+## Tested
