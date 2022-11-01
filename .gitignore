@@ -2,6 +2,7 @@
 
 ## APi keys
 api.py
+tft_api.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
